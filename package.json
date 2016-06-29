@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-admin-panel",
+  "version": "1.0.0",
+  "description": "Testing AngularJS. Trying to create a admin panel with it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arviens/angularjs-admin-panel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arviens/angularjs-admin-panel/issues"
+  },
+  "homepage": "https://github.com/arviens/angularjs-admin-panel#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "http-server": "^0.9.0"
+  }
+}
